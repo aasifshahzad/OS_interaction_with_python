@@ -1,4 +1,5 @@
-# Start of a new Python program
+# New file created./n
+# Start of Program
 def rearrange_name1(name):
     result = re.search(r"^(\w*), (\w*)$", name)
     if result is None:
